@@ -1,6 +1,6 @@
 # early-warning-signal-DLM
 
-A Dynamic Linear Model addpated from (Prado and West, 2010, CRC Press) to identify early warning signal (EWS) of forest mortality. 
+A Dynamic Linear Model addpated from (Prado and West, 2010, CRC Press) to identify early warning signal (EWS) of forest mortality. Reapplying this model to the Illilouette Creek Basin after the 2015 drought-related tree mortality.
 
 Reference:
 
